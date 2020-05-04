@@ -1,0 +1,10 @@
+## Interface: 11304
+## Title: IgnoreAll (V1.0) 
+## Author: Gerlofs (Noggenfogger - EU)
+##: Notes: Allows a user to ignore multiple users with a single command.
+## Version: 1.0
+## RequiredDeps:
+## SavedVariables:
+
+#Main
+IgnoreAll.lua
